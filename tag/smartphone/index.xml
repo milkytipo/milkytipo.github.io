@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smartphone | Zida&#39;s Homepage</title>
+    <link>/tag/smartphone/</link>
+      <atom:link href="/tag/smartphone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Smartphone</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 24 Sep 2017 23:29:34 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Smartphone</title>
+      <link>/tag/smartphone/</link>
+    </image>
+    
+    <item>
+      <title>High-accuracy GNSS Positioning on Portable Smartphone</title>
+      <link>/project/gnss-project/</link>
+      <pubDate>Sun, 24 Sep 2017 23:29:34 +0800</pubDate>
+      <guid>/project/gnss-project/</guid>
+      <description>&lt;p&gt;Google released Android Nougat (version 7.0) in 2016, which opens the possibility to use raw data to achieve high precision  solutions on low-cost smart devices. Due to the poor performance of the low-cost antenna and crystal oscillator of smartphone,  the accuracy of traditional single point positioning can only reach about 10 meters. However, IMU, the interoceptive sensor which never care about the interference outside, enable to assist GNSS to achieve robust and continuous localization.  Therefore, this project aimed to develop an algorithm which achieved high-accuracy and reliable positioning of smartphones under complex environment using GNSS-IMU fusion.&lt;/p&gt;
+&lt;p&gt;We developed an Android application to obtain the raw GNSS chips data and parsed it into generic format RINEX 3.02. During the analysis, we found that phone horrible oscillator existed intermittent 256ns drift. Then the pseudorange double-difference (PDD) was performed to eliminate the atmosphere, satellite, and phone clock error, as well as decoupled the pseudorange and velocity measurements based on the short-baseline hypothesis.&lt;/p&gt;
+&lt;p&gt;Furthermore, the joint heading estimation using Pedestrian Dead Reckoning (PDR) and GNSS Doppler was also presented, the result shows that this algorithm calibrated the PDR gait length loss and heading drift in the long-term, and maintained high smooth and accuracy in the short-term.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

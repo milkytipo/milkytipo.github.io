@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Zida&#39;s Homepage</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2019 13:00:00 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Pseudorange Double Difference and PDR Fusion Algorithm Using Smartphone GNSS Raw Measurements</title>
+      <link>/publication/csnc2019_1/</link>
+      <pubDate>Fri, 24 May 2019 13:00:00 +0800</pubDate>
+      <guid>/publication/csnc2019_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PDR/GNSS Fusion Algorithm Based on Joint Heading Estimation</title>
+      <link>/publication/csnc2019_2/</link>
+      <pubDate>Thu, 23 May 2019 13:00:00 +0800</pubDate>
+      <guid>/publication/csnc2019_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEMS-based IMU Assisted Real Time Difference Using Raw Measurements for Smartphone</title>
+      <link>/publication/ion2018-article/</link>
+      <pubDate>Sun, 23 Sep 2018 13:35:52 +0800</pubDate>
+      <guid>/publication/ion2018-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
